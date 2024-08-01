@@ -1,5 +1,10 @@
 # My Social Media
 
-### It is developed by using HTML and CSS
+## Language Used
 
-[My social Media's](https://pravin-socialmedia.netlify.app/)
+- HTML
+- CSS
+
+## Link
+
+- https://pravin-socialmedia.netlify.app/
