@@ -1,9 +1,6 @@
 # My Social Media
 
-## Language Used
-
-- HTML
-- CSS
+#### Developed by using HTML and CSS
 
 ## Link
 
